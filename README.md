@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **xixihaianxian/xixihaianxian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
+<!-- 个人自我介绍 -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xixihaianxian&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- 资料奖杯 -->
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=xixihaianxian&theme=nord" /> </div>
