@@ -1,66 +1,66 @@
-<!-- ============================================== -->
-<!--  👋 欢迎来到我的 GitHub 个人主页                      -->
-<!--  带有 TODO 标记的地方，请替换成你自己的信息             -->
-<!-- ============================================== -->
+<div align="center">
 
-<!-- 顶部动态打字机标题 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there;I'm+xixihaianxian;Welcome+to+my+GitHub&font=Fira+Code&center=true&width=500&height=60&color=88C0D0&vCenter=true&size=24&pause=1000" alt="typing svg" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0f766e&height=180&section=header&text=xixihaianxian&fontSize=52&fontColor=f8fafc&fontAlignY=38&desc=Builder%20%7C%20Learner%20%7C%20Problem%20Solver&descAlignY=62&descSize=16" alt="xixihaianxian" />
 
-<!-- 关于我 -->
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=%E5%85%B3%E4%BA%8E%E6%88%91&color=88C0D0&style=for-the-badge" alt="关于我" />
-</p>
+### 你好，我是 xixihaianxian
 
-<p align="center">
-  ▸ 正在学习：<b>...</b><br/>
-  ▸ 目前在做：<b>...</b><br/>
-  ▸ 有趣的事：<b>...</b>
-</p>
+**把想法做成可用的东西，持续学习，持续交付。**
 
-<!-- 技术栈 -->
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=%E6%8A%80%E6%9C%AF%E6%A0%88&color=81A1C1&style=for-the-badge" alt="技术栈" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/xixihaianxian)
+[![Profile views](https://komarev.com/ghpvc/?username=xixihaianxian&color=0f766e&style=flat-square&label=访问量)](https://github.com/xixihaianxian)
 
-<p align="center">
-  <!-- TODO: 改成你实际使用的技术，图标见 https://skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,docker" alt="skill icons" />
-</p>
+</div>
 
-<!-- GitHub 统计 -->
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=GitHub%20%E7%BB%9F%E8%AE%A1&color=A3BE8C&style=for-the-badge" alt="GitHub 统计" />
-</p>
+## 关于我
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xixihaianxian&show_icons=true&theme=nord&hide_border=true" alt="github stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xixihaianxian&layout=compact&theme=nord&hide_border=true" alt="top languages" />
-</p>
+```text
+正在学习   前端工程、后端基础与开源协作
+目前在做   把小想法打磨成稳定、清晰的项目
+工作方式   先理解问题，再写简单可靠的代码
+```
 
-<!-- 活动图 -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xixihaianxian&theme=nord" alt="activity graph" />
-</p>
+## 精选项目
 
-<!-- 资料奖杯 -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xixihaianxian&theme=nord&column=8&margin-w=15&margin-h=15" alt="trophies" />
-</p>
+| 项目 | 简介 | 技术 |
+| --- | --- | --- |
+| [xixihaianxian](https://github.com/xixihaianxian/xixihaianxian) | 个人主页与实验项目集合 | Markdown |
+| [查看全部项目](https://github.com/xixihaianxian?tab=repositories) | 持续整理中，欢迎交流想法 | GitHub |
 
-<!-- 联系我 -->
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=%E8%81%94%E7%B3%BB%E6%88%91&color=D08770&style=for-the-badge" alt="联系我" />
-</p>
+## 技术栈
 
-<p align="center">
-  <!-- TODO: 替换成你的邮箱 / 社交链接 -->
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D08770?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://github.com/xixihaianxian"><img src="https://img.shields.io/badge/GitHub-5E81AC?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-</p>
+<div align="center">
 
-<!-- 访客计数 -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xixihaianxian&color=88C0D0&style=flat-square&label=%E8%AE%BF%E9%97%AE%E9%87%8F" alt="visitor count" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,git,docker&perline=7" alt="JavaScript, TypeScript, Python, React, Node.js, Git, Docker" />
+
+</div>
+
+## GitHub 状态
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=xixihaianxian&show_icons=true&hide_border=true&theme=transparent&title_color=0f766e&text_color=475569&icon_color=0f766e&rank_icon=github&include_all_commits=true" alt="GitHub 统计" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xixihaianxian&layout=compact&hide_border=true&theme=transparent&title_color=0f766e&text_color=475569" alt="常用语言" />
+
+</div>
+
+<div align="center">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=xixihaianxian&bg_color=ffffff00&color=475569&line=0f766e&point=0f766e&area=true&hide_border=true" alt="GitHub 活动图" />
+
+</div>
+
+## 联系我
+
+如果你对开源、产品实践或技术交流感兴趣，欢迎通过 [GitHub](https://github.com/xixihaianxian) 联系我。
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=xixihaianxian&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub 奖杯" />
+
+</div>
+
+<div align="center">
+
+<sub>保持好奇，保持输出。</sub>
+
+</div>
