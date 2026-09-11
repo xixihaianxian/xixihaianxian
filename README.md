@@ -30,7 +30,7 @@
 <h3 align="center">📊 GitHub 统计</h3>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xixihaianxian&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="github stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xixihaianxian&show_icons=true&theme=nord&hide_border=true" alt="github stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xixihaianxian&layout=compact&theme=nord&hide_border=true" alt="top languages" />
 </p>
 
